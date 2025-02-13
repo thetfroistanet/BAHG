@@ -4,3 +4,8 @@ img {
     object-fit: cover;
     border-radius: 10px;
 }
+
+body {
+    background-color: #A349A4; /* Change to any color */
+    color: white; /* Makes text readable on dark backgrounds */
+}
