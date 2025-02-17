@@ -1,4 +1,4 @@
-##Hey! 
+Hey! 
 Thanks for Playing BAHG! 
 You can see the latest version under Releases, 
                 and 
